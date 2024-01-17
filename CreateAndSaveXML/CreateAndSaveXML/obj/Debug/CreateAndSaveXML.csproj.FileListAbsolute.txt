@@ -1,0 +1,10 @@
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\bin\Debug\CreateAndSaveXML.exe.config
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\bin\Debug\CreateAndSaveXML.exe
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\bin\Debug\CreateAndSaveXML.pdb
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\obj\Debug\CreateAndSaveXML.Form1.resources
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\obj\Debug\CreateAndSaveXML.Properties.Resources.resources
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\obj\Debug\CreateAndSaveXML.csproj.GenerateResource.Cache
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\obj\Debug\CreateAndSaveXML.csproj.CoreCompileInputs.cache
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\obj\Debug\CreateAndSaveXML.exe
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\obj\Debug\CreateAndSaveXML.pdb
+C:\Users\theon\Documents\Visual Studio 2017\Projects\CreateAndSaveXML\CreateAndSaveXML\obj\Debug\CreateAndSaveXML.csprojAssemblyReference.cache
